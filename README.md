@@ -7,3 +7,5 @@ Retail Sector :
 2. https://lionbridge.ai/datasets/24-best-ecommerce-retail-datasets-for-machine-learning/ (Particularly Good)
 3. https://catalog.data.gov/dataset
 
+Others :
+1. https://dreamtolearn.com/ryan/1001_datasets
