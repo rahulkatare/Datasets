@@ -9,3 +9,4 @@ Retail Sector :
 
 Others :
 1. https://dreamtolearn.com/ryan/1001_datasets
+2. https://github.com/numenta/NAB/tree/master/data
